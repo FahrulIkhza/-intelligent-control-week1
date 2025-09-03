@@ -6,7 +6,8 @@ login pada softwore git bash, jika sudah menginstal dilanjutkan clone repository
 Pada saat proses clone, terdapat kesalahan pada terminal dikarenakan harus mendownload terlebih dahulu software git bash yang nantinya digunakan untuk clone. 
 pada software Phyton sebelumnya mendownload phyton versi 3.11.13 dan ternyata tidak dapat digunakan, dan selanjutnya mendownload software phyton versi 3.11.6 dan aplikasi dapat digunakan. Phyton sangat berpengaruh karena untuk pemograman 
 setelah pyhton terinstal jangan lupa laptop direstart ulang agar bisa untuk dirunning.
-Setelah itu masuk ke aplikasi Visual Studio Code untuk coding awal dimasukan "pip install opencv-python numpy matplotlib" jika terkendala pada waktu running biasanya terjadi karena belom restart pada laptop.
+setelah itu masuk ke aplikasi visual studio code, lalu buka terminal dan pilih new terminal 
+Setelah itu coding awal dimasukan "pip install opencv-python numpy matplotlib" jika terkendala pada waktu running biasanya terjadi karena belom restart pada laptop.
 setelah proses running program akan menginstal beberapa file yang di butuhkan dalam Visual Studio Code, dan output dari running akan terbuka pada software phyton, selanjutnya tertaut pada kamera laptop dan menghasilkan deteksi secara real time. 
 Warna yang terdeteksi adalah merah, biru, kuning, hijau.
 Metode ini tetap memiliki kelemahan, misalnya terjadi kesalahan deteksi ketika kondisi pencahayaan berubah atau terdapat objek lain dengan warna yang mirip.
